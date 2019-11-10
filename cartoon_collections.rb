@@ -31,6 +31,5 @@ def find_the_cheese(array)
 if cheese_types.include?(look)
       return "#{look}"
     end
-  end
   return nil
 end
