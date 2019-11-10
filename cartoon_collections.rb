@@ -14,7 +14,6 @@ end
 
 def long_planeteer_calls array
   if array.any? { |n| n.length > 4 }
-  if array[0..3] = 4
   p true
 end 
  false
