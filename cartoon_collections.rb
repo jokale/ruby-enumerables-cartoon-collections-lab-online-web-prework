@@ -6,7 +6,7 @@ end
 
 
 def summon_captain_planet(array)
-  ["earth", "wind", "fire", "water", "heart"].map { array |
+  ["earth", "wind", "fire", "water", "heart"].map { array | 
 end
 
 
