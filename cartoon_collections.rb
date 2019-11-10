@@ -1,6 +1,6 @@
 def roll_call_dwarves(array)
    
-["Dopey", "Grumpy", "Bashful"].each_with_index do |array, index| p  
+["Dopey", "Grumpy", "Bashful"].each_with_index do |array, index| p index 
 end 
 end
 
