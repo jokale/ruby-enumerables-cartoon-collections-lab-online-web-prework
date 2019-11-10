@@ -1,6 +1,5 @@
 def roll_call_dwarves(array)
   array.map { |array|array}
-  if "Dopey" [1]
     p array 
 end
 
