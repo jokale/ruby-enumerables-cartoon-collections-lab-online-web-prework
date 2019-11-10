@@ -22,10 +22,10 @@ end
 
 def find_the_cheese(array)
   cheese_types = ["cheddar", "gouda", "camembert"]
+  if array.any? { 
   # if array.include?(cheese_types)
   #   return "#{cheese_types}"
   # end
   #   nil 
   # end
-  str_arr.find { |word| cheese_types.index(word)}
-end
+ 
