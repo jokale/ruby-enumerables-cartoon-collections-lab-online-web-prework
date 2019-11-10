@@ -1,9 +1,9 @@
 def roll_call_dwarves(array)
    
-["Dopey", "Grumpy", "Bashful"].each_with_index do |array, index| p "#{index} #{array}/"
+["Dopey", "Grumpy", "Bashful"].each_with_index do |array, index| p "#{index} #{array}"
 end 
 end
-/1.*Dopey/
+
 
 def summon_captain_planet
   # Your code here
