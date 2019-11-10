@@ -14,9 +14,9 @@ end
 
 def long_planeteer_calls array 
   if array[0..3] = 4
-  p "true"
+  p true
 else 
-  p "false"
+  p false
 end 
   
 end
