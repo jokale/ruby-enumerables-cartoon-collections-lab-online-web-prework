@@ -1,7 +1,4 @@
 def roll_call_dwarves(array)
-  array.map {|array|array}
-    p array if 
-    
 end
 
 def summon_captain_planet
