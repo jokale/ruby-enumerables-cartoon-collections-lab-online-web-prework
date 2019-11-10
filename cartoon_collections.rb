@@ -1,10 +1,14 @@
-def roll_call_dwarves# code an argument here
+def roll_call_dwarves(array)
+  array.map { |string|}
+  if "Dopey" = [1]
+    p array 
+end
+
+def summon_captain_planet
   # Your code here
 end
 
-def summon_captain_planet# code an argument here
-  # Your code here
-end
+
 
 def long_planeteer_calls# code an argument here
   # Your code here
