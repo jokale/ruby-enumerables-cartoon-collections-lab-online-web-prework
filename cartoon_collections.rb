@@ -13,8 +13,11 @@ end
 
 
 def long_planeteer_calls array 
-  if array
-  # Your code here
+  if array[0..3] = 4
+  p "true"
+else 
+  
+  
 end
 
 def find_the_cheese(array)
