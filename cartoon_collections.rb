@@ -26,4 +26,5 @@ def find_the_cheese(array)
   # # if array.include?(cheese_types)
   # #   return "#{cheese_types}"
   # # end
-| 
+  array.find { |word| cheese_types.index(word)}
+end
