@@ -6,7 +6,7 @@ end
 
 
 def summon_captain_planet(array)
-  ["carrot", "cucumber", "pepper"].map do  |array | p "#{array.upcase}!"
+  ["carrot", "cucumber", "pepper"].map do  |array | p "#{array.capitalize}!"
 end
 end 
 
