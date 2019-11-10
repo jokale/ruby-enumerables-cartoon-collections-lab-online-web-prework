@@ -13,6 +13,7 @@ end
 
 
 def long_planeteer_calls array 
+  if array
   # Your code here
 end
 
